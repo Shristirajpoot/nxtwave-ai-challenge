@@ -1,5 +1,13 @@
 @import "tailwindcss";
 
+@theme {
+  --font-inter: 'Inter', sans-serif;
+  --font-space: 'Space Grotesk', sans-serif;
+}
+
+@utility font-inter { font-family: var(--font-inter); }
+@utility font-space { font-family: var(--font-space); }
+
 :root {
   --bg-primary: #050811;
   --bg-secondary: #0a0f1e;
