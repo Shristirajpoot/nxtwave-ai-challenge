@@ -35,7 +35,7 @@ export default function CTA() {
         </p>
 
         <a
-          href="https://forms.gle/Hu9MYLn1VvpHtLXn7"
+          href="https://docs.google.com/forms/d/e/1FAIpQLSckuFrBrsjblvbOMtxZjJIaOCrSzf4wvGON0wIsgR82LBxiAQ/viewform"
           target="_blank"
           rel="noopener noreferrer"
           id="final-cta-btn"

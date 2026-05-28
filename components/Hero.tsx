@@ -99,7 +99,7 @@ export default function Hero() {
         {/* CTAs */}
         <div className="flex flex-col sm:flex-row gap-4 justify-center mb-14 animate-fade-up" style={{ animationDelay: "0.2s" }}>
           <a
-            href="https://forms.gle/Hu9MYLn1VvpHtLXn7"
+            href="https://docs.google.com/forms/d/e/1FAIpQLSckuFrBrsjblvbOMtxZjJIaOCrSzf4wvGON0wIsgR82LBxiAQ/viewform"
             target="_blank"
             rel="noopener noreferrer"
             id="hero-register-btn"
